@@ -1,0 +1,90 @@
+[
+    {
+        "id": "1",
+        "nombre": "Mani",
+        "precio":"580",
+        "stock": 45,
+        "img": "./snack1.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Papas Fritas",
+        "precio":"350",
+        "stock": 30,
+        "img": "./snack2.jpg"
+    },
+    
+    {
+        "id": "3",
+        "nombre": "Palitos salados",
+        "precio":"2100",
+        "stock": 56,
+        "img": "./snack3.jpg"
+    },
+    {
+        "id": "4",
+        "nombre": "Palitos de queso",
+        "precio":"650",
+        "stock": 34,
+        "img": "./snack4.jpg"
+    },  
+    {
+        "id": "5",
+        "nombre": "Salame Bozzana",
+        "precio":"650",
+        "stock": 6,
+        "img": "./snack5.jpg"
+    },
+    {
+        "id": "6",
+        "nombre": "Jamon Crudo Noel",
+        "precio":"2100",
+        "stock": 4,
+        "img": "./snack6.jpg"
+    },
+    {
+        "id": "7",
+        "nombre": "Jamon Paladini",
+        "precio":"130",
+        "stock": 92,
+        "img": "./snack7.jpg"
+    },
+    {
+        "id": "8",
+        "nombre": "Fontina Barraza",
+        "precio":"600",
+        "stock": 7,
+        "img": "./snack8.jpg"
+    },
+    {
+        "id": "9",
+        "nombre": "Adler fontina",
+        "precio":"280",
+        "stock": 12,
+        "img": "./snack9.jpg"
+    },
+    {
+        "id": "10",
+        "nombre": "Finlandia Chedar",
+        "precio":"180",
+        "stock": 78,
+        "img": "./snack10.jpg"
+    },
+    {
+        "id": "11",
+        "nombre": "Adler untable",
+        "precio":"280",
+        "stock": 19,
+        "img": "./snack11.jpg"
+    },
+    {
+        "id": "12",
+        "nombre": "Adler Untable",
+        "precio":"280",
+        "stock": 9,
+        "img": "./snack12.jpg"
+    }
+    
+    
+
+]

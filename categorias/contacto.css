@@ -1,0 +1,86 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    padding-top: 150px;
+}
+
+h1 {
+    font-size: 66px;
+    font-weight: 600;
+    line-height: 80px;
+}
+h2 {
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+p {
+font-size: 20px;
+line-height: 1.8 ;
+margin-bottom: 0;
+}
+  
+/* Barra */
+a:hover {
+    text-decoration: none ;
+}
+
+.navbar {
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 2px 4px black (0 , 0 , 0 ,.09);
+    min-height: 100px;
+    padding: 10px 15px;
+}
+.nav-link {
+    color: black;   
+}
+.nav-link:hover {
+    color: rgb(21, 149, 189);
+} 
+.logo-brand {
+    min-width: 110px;
+    max-width: 110px;
+}
+.navbar-toggler {
+    font-size: 30px;
+    
+}
+.navbar-toggler:focus {
+    outline: none;
+}
+
+
+/* Footer */
+.bg-white {
+    background-color: rgb(255, 255, 255) important;
+}  
+#footer {
+    padding: 80px 0;
+    text-align: center;
+    color: black; 
+}
+#footer a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+#footer a:hover {
+ color:rgb(21, 149, 189);
+}
+#footer .list-inline .list-inline-item {
+    padding: 10px 15px;
+}
+
+
+/* formulario */
+
+.contactoTitulo {
+    position: relative;
+    overflow: hidden;
+    margin: 10px 0;
+    border-radius: 2px;
+    text-align: center;
+    margin-bottom: 50px;
+ 
+}
+
+

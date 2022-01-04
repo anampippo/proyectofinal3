@@ -1,0 +1,88 @@
+[
+    {
+        "id": "1",
+        "nombre": "Fernet",
+        "precio":"580",
+        "stock": "35",
+        "img": "./bebida1.jpg"
+    },
+    {
+        "id": "2",
+        "nombre": "Cerveza Andes",
+        "precio":"350",
+        "stock": "35",
+        "img": "./bebida2.jpg"    },
+    
+    {
+        "id": "3",
+        "nombre": "Baileys",
+        "precio":"2100",
+        "stock": "95",
+        "img": "./bebida3.jpg"
+    },
+    {
+        "id": "4",
+        "nombre": "Gancia",
+        "precio":"750",
+        "stock": "15",
+        "img": "./bebida4.jpg"
+    },
+    {
+        "id": "5",
+        "nombre": "Sheridan's",
+        "precio":"2900",
+        "stock": "17",
+        "img": "./bebida5.jpg"
+    },
+    {
+        "id": "6",
+        "nombre": "Amarula",
+        "precio":"2750",
+        "stock": "65",
+        "img": "./bebida6.jpg"
+    },
+    {
+        "id": "7",
+        "nombre": "Fernet Menta",
+        "precio":"750",
+        "stock": "9",
+        "img": "./bebida7.jpg"
+    },
+    {
+        "id": "8",
+        "nombre": "Campari",
+        "precio":"650",
+        "stock": "10",
+        "img": "./bebida8.jpg"
+    },
+    {
+        "id": "9",
+        "nombre": "Smirnoff",
+        "precio":"670",
+        "stock": "32",
+        "img": "./bebida9.jpg"
+    },
+    {
+        "id": "10",
+        "nombre": "Smirnoff Sandia",
+        "precio":"750",
+        "stock": "9",
+        "img": "./bebida10.jpg"
+    },
+    {
+        "id": "11",
+        "nombre": "Chivas Regal",
+        "precio":"3450",
+        "stock": "5",
+        "img": "./bebida11.jpg"
+    },
+    {
+        "id": "12",
+        "nombre": "Tia Maria",
+        "precio":"950",
+        "stock": "3",
+        "img": "./bebida12.jpg"
+    }
+    
+
+]

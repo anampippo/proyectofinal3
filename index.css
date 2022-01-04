@@ -1,0 +1,129 @@
+
+body {
+    font-family: 'Titillium Web', sans-serif;
+    padding-top: 150px;
+}
+
+h1 {
+    font-size: 66px;
+    font-weight: 600;
+    line-height: 80px;
+}
+
+h2 {
+    font-size: 40px;
+    margin-bottom: 40px;
+}
+
+p {
+font-size: 20px;
+line-height: 1.8 ;
+margin-bottom: 0;
+}
+
+a:hover {
+    text-decoration: none ;
+}
+
+
+.navbar {
+    font-size: 20px;
+    background-color: white;
+    box-shadow: 0 2px 4px black (0 , 0 , 0 ,.09);
+    min-height: 100px;
+    padding: 10px 15px;
+
+}
+
+.nav-link {
+    color: black;   
+}
+
+.nav-link:hover {
+    color: rgb(21, 149, 189);
+} 
+
+.logo-brand {
+    min-width: 110px;
+    max-width: 110px;
+}
+
+.navbar-toggler {
+    font-size: 30px;
+    
+}
+
+.navbar-toggler:focus {
+    outline: none;
+}
+
+
+#hero {
+    background-image: url('./imagenesbebidas/imagenprincipal2.jpeg');
+    background-size: cover;
+    padding-top: 100px;
+    min-height: 700px;
+    color: white;
+    
+}
+
+#hero p {
+    color: white;
+}
+
+.content-center {
+    max-width: 100em;
+    margin: auto 0 60px auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.porfolio-container {
+    position: relative;
+    overflow: hidden;
+    margin: 10px 0;
+    border-radius: 2px;
+ 
+}
+ 
+.porfolio-container img {
+    -moz-transition: all 0.8s;
+    -webkit-transition: all 0.8s ;
+    transition: all 0.8s;
+}
+
+
+.porfolio-container:hover img {
+    -moz-transform: scale (1.2);
+    -webkit-transform: scale (1.2) ;
+    transform: scale(1.2) ;
+}
+
+
+.bg-white {
+    background-color: rgb(255, 255, 255) important;
+}  
+
+#footer {
+    padding: 80px 0;
+    text-align: center;
+    color: black;
+  
+}
+
+#footer a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+#footer a:hover {
+ color:rgb(21, 149, 189);
+}
+
+#footer .list-inline .list-inline-item {
+    padding: 10px 15px;
+}
+
+
+
